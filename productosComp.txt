@@ -1,0 +1,6 @@
+777 Maseca GRUMA 1 kg 5 12 
+22 Pepsi Pepsico lt 3 3 23 
+55 Lechera Nestle 500 ml 3 25 
+55 Lechera Nestle ml 500 2 25 
+55 Lechera Nestle ml 500 1 25 
+55 Lechera Nestle ml 500 0 25 

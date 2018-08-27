@@ -1,0 +1,11 @@
+55 Lechera Nestle 500 ml 0 25 
+22 Pepsi Pepsico 3 lt 2 23 
+111 Leche Alpura lt 1 5 17 
+118 Frijoles La#Coste¤a g 400 5 14.5 
+222 Coca-cola Coca-cola 3 lt 5 35 
+444 Jarritos Pascula 1 lt 9 8 
+456 Agua Bonafont lt 2 6 13 
+777 Maseca GRUMA kg 1 5 12 
+888 Sabritas Pepsico g 150 5 11 
+898 Elotes La#Coste¤a 400 g 4 13 
+999 Coquits La#Coste¤a g 20 4 2 
